@@ -1,0 +1,3 @@
+# Local recovery copies; the original map is already in Git history.
+waterfall/*.before-waterfall.rbxl
+waterfall/*.original.client.luau
